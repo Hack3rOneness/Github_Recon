@@ -1,0 +1,8 @@
+Github is also a great place to look for credentials and private API keys. The hardest thing about this method is getting creative when it comes down to looking for different keys. Here’s a list of a few items I look for on github:
+“Hackme.tld” API_key
+“Hackme.tld” secret_key
+“Hackme.tld” aws_key
+“Hackme.tld” Password 
+“Hackme.tld” FTP
+“Hackme.tld” login 
+“Hackme.tld” github_token
